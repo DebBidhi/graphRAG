@@ -1,4 +1,5 @@
 dataF
 hf_cache
 data
-docker run -p 74747474 -p 76877687 Noe4j
+docker run -p 74747474 -p 76877687 Noe4j.txt
+*.txt
